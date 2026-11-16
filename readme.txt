@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 Featured Project
-#### [Bank Account Management & Transaction System](https://github.com/itachi006/Bank-Account-Management-System)
+#### [Bank Account Management & Transaction System](https://github.com/itachi006/Bank)
 - Built a relational **MySQL** database schema separating customer account profiles and timestamped transaction ledgers for auditability.
 - Implemented core banking workflows in **Java (JDBC)** including secure PIN authentication, deposits, withdrawals, and **atomic fund transfers** (`commit`/`rollback` with row-level locking).
 
