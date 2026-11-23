@@ -20,5 +20,5 @@
 
 ### 📫 Connect With Me
 - **LinkedIn:** [linkedin.com/in/anil-sharma-887244246](https://www.linkedin.com/in/anil-sharma-887244246)
-- **Email:** anilsharma248179@gmail.com
+- **Email:** anilprasadsharma1@gmail.com
 - **Location:** Mumbai, Maharashtra, India
